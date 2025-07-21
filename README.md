@@ -1,15 +1,28 @@
 # MII Portal To-do list
 
-Merge everyone's code 
+Formatting
+Use valiables for colorsa
+
+Handle 
+- loading state
+- check errors received and propagate in UI
+
+Login Page 
+
+For each page 
+- Check Database
+- check API routes and add them to pages
+
+
 ## Pending Tasks
 
-Formatting, use variables, 
-
 #### Anurag 
+Login Flow
+Merge everyone's code 
 Dashboard page
     - Button like others in view buttons
-     - Numbers should all be on the same height
-     - Next Meeting, Agenda in card center and space 
+    - Numbers should all be on the same height
+    - Next Meeting, Agenda in card center and space 
 
 # Frontend 
 
@@ -46,7 +59,12 @@ view more button, view more things, remove dialog box
 
 #### Rajat
 
+- [ ] Refreh and Access token remove email, add auth id
+- [ ] Reset Password flow 
+
 #### Sourabh Mourya
+
+- [ ] Startup dashboard API integration
 
 # Design
 
