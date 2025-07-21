@@ -1,17 +1,65 @@
 # MII Portal To-do list
 
-Formatting
-Use valiables for colorsa
+#### 
 
+-----
+
+----
+
+----
+## Meeting
+
+Title
+Start Time
+End Time
+Date 
+Status
+Attendees (6 cols)
+Summary (When Meeting is over)
+Docs
+Meeting
+Location
+Link
+
+/getAllMeeting (Get all meetings where attendees id contains current user id)
+/createMeeting
+/modifyMeeting
+/deleteMeeting
+
+## Meeting  Table
+
+Startup
+- Mentor
+- HR 
+- Manager
+
+Mentor 
+- All associated startups 
+- HR 
+- Manager
+
+HR
+- All Startups 
+- All mentors 
+- HR 
+- Manager
+
+Manager, Admin 
+- All Startups 
+- All mentors 
+- HR 
+- Manager
+- Investor
+
+----
+
+## Rules
+
+Formatting
+Use valiables for colors
 Handle 
 - loading state
 - check errors received and propagate in UI
-
-Login Page 
-
-For each page 
-- Check Database
-- check API routes and add them to pages
 
 
 ## Pending Tasks
@@ -23,6 +71,10 @@ Dashboard page
     - Button like others in view buttons
     - Numbers should all be on the same height
     - Next Meeting, Agenda in card center and space 
+
+For each page 
+- Check Database
+- check API routes and add them to pages
 
 # Frontend 
 
@@ -61,10 +113,14 @@ view more button, view more things, remove dialog box
 
 - [ ] Refreh and Access token remove email, add auth id
 - [ ] Reset Password flow 
+- [ ] Create account route everyone's ids are unique (for no conflict in meeting searching)
 
 #### Sourabh Mourya
 
 - [ ] Startup dashboard API integration
+env var API urls
+Redirect to dashboard if already logged in
+- [ ] Add roles in account creation service ( auth id in user tables )
 
 # Design
 
@@ -72,4 +128,15 @@ view more button, view more things, remove dialog box
 
 
 # Completed
+
+## Anruag
+- [x] Login Page Design
+
+
+Startup
+Mentor 
+HR
+Manager
+Admin 
+Investor
 
