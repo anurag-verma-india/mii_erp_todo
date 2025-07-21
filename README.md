@@ -30,6 +30,9 @@ Schedule new meeting page
 
 Info Form end logout button
 
+finance
+view more button, view more things, remove dialog box
+
 #### Anurag 
 
 # Frontend 
