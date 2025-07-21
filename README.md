@@ -1,1 +1,56 @@
-# mii_erp_todo
+# MII Portal To-do list
+
+## Pending Tasks
+
+Proper Header
+Mobile view
+- Add links
+![](./header.png)
+Mobile view hamburger menu icon on the right, profile on left
+
+Formatting, use variables, 
+Merge everyone's code 
+
+- [ ] Add Favicon
+- [ ] Meetings page (elements like employee dir)
+
+
+Dashboard page
+     - Numbers should all be on the same height
+     - Next Meeting, Agenda in card center and space 
+
+Schedule new meeting page
+    - Line in the whole page (below title) 
+    - Center
+    - Button Color SOlid
+    - Attendees checkbox
+
+
+
+#### Anurag 
+
+# Frontend 
+
+#### Leeni 
+
+#### Srashti
+
+#### Saloni
+
+#### Karishma
+
+#### Kavita
+
+# Backend
+
+#### Rajat
+
+#### Sourabh Mourya
+
+# Design
+
+#### Saurav
+
+
+# Completed
+
