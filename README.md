@@ -1,10 +1,9 @@
 # MII Portal To-do list
 
+underline usename (startup dashboard)
+            - Startup Stats: Total revenue in one line
+
 #### 
-
------
-
-----
 
 ----
 ## Meeting
@@ -130,8 +129,10 @@ Redirect to dashboard if already logged in
 # Completed
 
 ## Anruag
-- [x] Login Page Design
+- [x] New Login static page
 
+
+## Roles
 
 Startup
 Mentor 
