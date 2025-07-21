@@ -1,11 +1,11 @@
 # MII Portal To-do list
 
 ## Pending Tasks
+Mobile view
+![](./header.png)
 
 Proper Header
-Mobile view
 - Add links
-![](./header.png)
 Mobile view hamburger menu icon on the right, profile on left
 
 Remove Welcome user just redirect to startup info form (/info)
