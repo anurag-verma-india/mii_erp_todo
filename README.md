@@ -1,7 +1,7 @@
 # MII Portal To-do list
 
 underline usename (startup dashboard)
-            - Startup Stats: Total revenue in one line
+- Startup Stats: Total revenue in one line
 
 #### 
 
@@ -78,15 +78,12 @@ For each page
 # Frontend 
 
 #### Leeni 
-- [ ] Add Favicon
-Mobile view
-![](./header.png)
 
-Proper Header
-- Add links
-Mobile view hamburger menu icon on the right, profile on left
 Remove Welcome user just redirect to startup info form (/info)
 Info Form end logout button
+
+Buttons
+Header: On photo directly open page, menu not closing in mobile
 
 #### Srashti
 - [ ] Meetings page (elements like employee dir)
@@ -130,6 +127,14 @@ Redirect to dashboard if already logged in
 
 ## Anruag
 - [x] New Login static page
+
+## Leeni
+
+- [ ] Add Favicon
+Mobile view
+![](./header.png)
+Proper Header
+- Add links
 
 
 ## Roles
