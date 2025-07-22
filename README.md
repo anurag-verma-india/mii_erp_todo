@@ -1,7 +1,7 @@
 # MII Portal To-do list
 
+- Schedule meeting page: after selecting meeting members clicking outside should disable it
 underline usename (startup dashboard)
-            - Startup Stats: Total revenue in one line
 
 #### 
 
@@ -89,8 +89,9 @@ Remove Welcome user just redirect to startup info form (/info)
 Info Form end logout button
 
 #### Srashti
-- [ ] Meetings page (elements like employee dir)
-Schedule new meeting page
+
+- [x] Meetings page (elements like employee dir)
+- [x] Schedule new meeting page
     - Line in the whole page (below title) 
     - Center
     - Button Color SOlid
@@ -124,13 +125,6 @@ Redirect to dashboard if already logged in
 # Design
 
 #### Saurav
-
-
-# Completed
-
-## Anruag
-- [x] New Login static page
-
 
 ## Roles
 
