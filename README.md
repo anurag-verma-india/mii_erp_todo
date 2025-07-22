@@ -84,6 +84,7 @@ Info Form end logout button
 
 Buttons
 Header: On photo directly open page, menu not closing in mobile
+popup
 
 #### Srashti
 - [ ] Meetings page (elements like employee dir)
