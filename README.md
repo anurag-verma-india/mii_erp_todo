@@ -1,67 +1,32 @@
 # MII Portal To-do list
-
-- Schedule meeting page: after selecting meeting members clicking outside should disable it
-underline usename (startup dashboard)
-
-#### 
-
-----
-## Meeting
-
-Title
-Start Time
-End Time
-Date 
-Status
-Attendees (6 cols)
-Summary (When Meeting is over)
-Docs
-Meeting
-Location
-Link
-
-/getAllMeeting (Get all meetings where attendees id contains current user id)
-/createMeeting
-/modifyMeeting
-/deleteMeeting
-
-## Meeting  Table
-
-Startup
-- Mentor
-- HR 
-- Manager
-
-Mentor 
-- All associated startups 
-- HR 
-- Manager
-
-HR
-- All Startups 
-- All mentors 
-- HR 
-- Manager
-
-Manager, Admin 
-- All Startups 
-- All mentors 
-- HR 
-- Manager
-- Investor
-
-----
-
 ## Rules
 
 Formatting
-Use valiables for colors
-Handle 
+Use variables for colors
+Handle:
 - loading state
 - check errors received and propagate in UI
 
 
+
+
 ## Pending Tasks
+
+- Schedule meeting page: after selecting meeting members clicking outside should disable it
+underline username (startup dashboard)
+- Remake all popups with antd
+- Recover static dashboard and merge with dynamic (fixed css)
+- Header
+  - Whole Div relative or sticky
+  - Mobile Menu Icon centered horizontally 
+- ![](./startup-mentor.png)
+- Finance: Send Remainder is incorrect 
+  - the button should open a popup that shows the current pending requests and an option to send remainder to the manager for each one
+  - Pending requests in the schedule Table should also have the send remainder button
+  - ˅ button should open full list or full list popup (remove the view all and downloads, there is already an export details above)
+  - Change text to be more user friendly (discuss)
+
+
 
 #### Anurag 
 Login Flow
@@ -103,7 +68,7 @@ view more button, view more things, remove dialog box
 
 #### Rajat
 
-- [ ] Refreh and Access token remove email, add auth id
+- [ ] Refresh and Access token remove email, add auth id
 - [ ] Reset Password flow 
 - [ ] Create account route everyone's ids are unique (for no conflict in meeting searching)
 
@@ -117,36 +82,4 @@ Redirect to dashboard if already logged in
 # Design
 
 #### Saurav
-
-# Completed
-
-## Anruag
-- [x] New Login static page
-
-## Leeni
-
-- [ ] Add Favicon
-Mobile view
-![](./header.png)
-Proper Header
-- Add links
-
-## Srashti
-
-- Startup Stats: Total revenue in one line
-- [x] Meetings page (elements like employee dir)
-- [x] Schedule new meeting page
-    - Line in the whole page (below title) 
-    - Center
-    - Button Color SOlid
-    - Attendees checkbox
-
-## Roles
-
-Startup
-Mentor 
-HR
-Manager
-Admin 
-Investor
 
